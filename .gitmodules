@@ -1,0 +1,3 @@
+[submodule "simple-lambda"]
+	path = simple-lambda
+	url = git@github.com-anand-gangadharan:anand-gangadharan/pigeon.git
